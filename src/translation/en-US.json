@@ -1,0 +1,24 @@
+{
+    "accountView.contract.issues.label": "Issues",
+    "accountView.contract.issues.issue.label": "Issue",
+    "accountView.contract.issues.severity.label": "Severity",
+    "accountView.contract.issue.severity.High.text": "High",
+    "accountView.contract.issue.severity.Medium.text": "Medium",
+    "accountView.contract.issue.severity.Low.text": "Low",
+    "accountView.contract.issue.severity.None.text": "None",
+    "accountView.contract.issues.occurrences.label": "Occurrences",
+    "accountView.contract.issues.description.label": "Description",
+    "accountView.contract.issues.disclaimer1": "Contract bytecode scanned with {link}MythX{/link} {version} on {createdAt}",
+    "accountView.contract.issues.disclaimer2": "Please note that this is a partial scan and might not show all issues.",
+    "accountView.contract.issues.provider.text": "Smart contract security scanning provided by MythX.",
+    "accountView.contract.issues.noIssues.text": "None",
+    "accountView.contract.issues.noIssues.description": "No potential issues detected during a quick scan.",
+    "accountView.contract.issues.unavailable.label": "Unavailable",
+    "accountView.contract.issues.unavailable.text": "This contract has not been scanned yet.",
+    "accountView.contract.issues.poweredBy.text": "powered by",
+
+    "accountView.contract.issues.requestScan.button": "Request Scan",
+    "accountView.contract.issues.scanInProgress.text": "Scan has been queued. Please check back later.",
+
+    "recaptchaDisclaimer.text": "This site is protected by reCAPTCHA and the Google {privacyLink}Privacy Policy{/privacyLink} and {tosLink}Terms of Service{/tosLink} apply."
+}

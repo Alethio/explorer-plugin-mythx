@@ -1,0 +1,6 @@
+{
+    "CONTRACT_ANALYSE_RESULT_URL_MASK": "https://blk-api.ethstats.io/api/v3/contract/%d/verifications",
+    "CONTRACT_ANALYZE_SCAN_URL": "https://submit-api.ethstats.io/api/v1/scan-contract",
+
+    "RECAPTCHA_SITE_KEY": ""
+}

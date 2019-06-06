@@ -1,0 +1,24 @@
+{
+    "accountView.contract.issues.label": "潜在漏洞",
+    "accountView.contract.issues.issue.label": "潜在漏洞",
+    "accountView.contract.issues.severity.label": "严重程度",
+    "accountView.contract.issue.severity.High.text": "高",
+    "accountView.contract.issue.severity.Medium.text": "中",
+    "accountView.contract.issue.severity.Low.text": "低",
+    "accountView.contract.issue.severity.None.text": "无",
+    "accountView.contract.issues.occurrences.label": "发生频率",
+    "accountView.contract.issues.description.label": "描述",
+    "accountView.contract.issues.disclaimer1": "合约字节码由{link}MythX{/link} {version}扫描于{createdAt}",
+    "accountView.contract.issues.disclaimer2": "注：该检测仅扫描部分代码，或未显示所有潜在风险。",
+    "accountView.contract.issues.provider.text": "智能合约安全检测（由MythX提供）",
+    "accountView.contract.issues.noIssues.text": "无。",
+    "accountView.contract.issues.noIssues.description": "经快速扫描未察觉潜在漏洞。",
+    "accountView.contract.issues.unavailable.label": "无相关信息",
+    "accountView.contract.issues.unavailable.text": "未扫描该合约。",
+    "accountView.contract.issues.poweredBy.text": "powered by",
+
+    "accountView.contract.issues.requestScan.button": "扫描合约",
+    "accountView.contract.issues.scanInProgress.text": "扫描任务已进入队列，请稍后查询结果。",
+
+    "recaptchaDisclaimer.text": "本站由reCAPTCHA验证保护并适用谷歌{privacyLink}隐私政策{/privacyLink}及{tosLink}条款{/tosLink}"
+}

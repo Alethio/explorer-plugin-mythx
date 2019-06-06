@@ -1,0 +1,15 @@
+{
+    "pages": [{
+        "def": "page://aleth.io/account",
+        "children": {
+            "bottom": [{
+                "def": "module://aleth.io/account/contract",
+                "children": {
+                    "accordionItems": [{
+                        "def": "module://aleth.io/mythx/contract-analyze"
+                    }]
+                }
+            }]
+        }
+    }]
+}
