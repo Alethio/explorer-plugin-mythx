@@ -2,7 +2,7 @@
   "name": "@alethio/explorer-plugin-mythx",
   "publisher": "aleth.io",
   "pluginName": "mythx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MythX integration for Alethio Explorer",
   "main": "dist/index.js",
   "scripts": {
