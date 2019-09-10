@@ -51,3 +51,5 @@ const alethioMythxPlugin: IPlugin = {
 
 // tslint:disable-next-line:no-default-export
 export default alethioMythxPlugin;
+
+export const manifest = __plugin_manifest__;
