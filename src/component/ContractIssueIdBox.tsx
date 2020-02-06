@@ -1,6 +1,6 @@
 import * as React from "react";
 import { ValueBox } from "@alethio/ui/lib/layout/content/box/ValueBox";
-import { ExternalLink } from "plugin-api/component/ExternalLink";
+import { ExternalLink } from "@alethio/ui/lib/control/ExternalLink";
 
 export interface IContractIssueIdBoxProps {
     issueId: string;

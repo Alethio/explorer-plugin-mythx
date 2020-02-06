@@ -6,7 +6,7 @@ import { LayoutRow } from "@alethio/ui/lib/layout/content/LayoutRow";
 import { LayoutRowItem } from "@alethio/ui/lib/layout/content/LayoutRowItem";
 import { Label } from "@alethio/ui/lib/data/Label";
 import { ValueBox } from "@alethio/ui/lib/layout/content/box/ValueBox";
-import { ExternalLink } from "plugin-api/component/ExternalLink";
+import { ExternalLink } from "@alethio/ui/lib/control/ExternalLink";
 import { ITranslation } from "plugin-api/ITranslation";
 import { ContractIssueIdBox } from "./ContractIssueIdBox";
 import { ContractIssueValueBox } from "./ContractIssueValueBox";
